@@ -16,7 +16,7 @@ const alert = () => {
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a> -->
-  <div @click="alert">弹窗显示</div>
+  <div @click="alert">弹窗显示111123</div>
   </div>
 
   <!-- <button>变量切换</button> -->
