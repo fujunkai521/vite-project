@@ -1,0 +1,6 @@
+:root{
+   --bg1: aqua;
+}
+html[data-theme="dark"]{
+    --bg1: aquamarine;
+}
